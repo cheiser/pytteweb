@@ -1,6 +1,6 @@
 name:			PytteWebb-0.9
 version/last-updated: 	v0.9/2014-02-06
-author:			Mattis Andersson 911110-3512
+author:			Mattis Andersson
 
 Purpose:		Acts as a webserver for http/0.9....
 
